@@ -1,0 +1,38 @@
+.ng-invalid.ng-dirty{
+	border-color : red;  
+}
+
+.ng-valid.ng-dirty{
+	border-color : green;  
+}
+
+.img-wrap{
+    text-align : center;
+}
+
+.small-image img{
+    height : 64px;
+    width : 64px;
+}
+
+.img-wrap + ul{
+    margin : 0 auto;
+    width : 222px;
+    padding : 0;
+}
+
+a{
+    color : #BA245F;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  color: #fff;
+  background-color: #BA245F;
+						      }
+
+.btn-primary:hover, .btn-primary , .btn-primary:focus, .btn-primary:active{
+  color: #fff;
+  background-color: #BA245F;
+  border-color:  #BA245F;
+
+						       }
