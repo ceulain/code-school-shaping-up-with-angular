@@ -1,9 +1,10 @@
 .ng-invalid.ng-dirty{
-	border-color : red;  
+	border-color : red;
 }
 
+
 .ng-valid.ng-dirty{
-	border-color : green;  
+	border-color : green;
 }
 
 .img-wrap{
